@@ -1,58 +1,59 @@
 <h1 align="center">Hi 👋, I'm Imasha Silva</h1>
-<h3 align="center">Aspiring QA Engineer | Computer Science Undergraduate | Sri Lanka</h3>
 
-<img align="right" alt="testing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
+<h3 align="center">
+Aspiring QA Automation Engineer | Computer Science Undergraduate | Sri Lanka 🇱🇰
+</h3>
 
-- 🎓 Computer Science Undergraduate at University of Ruhuna  
-- 🧪 Passionate about Software Quality Assurance & Automation Testing  
-- 🔍 Interested in Manual Testing, Selenium & TestNG  
-- 📫 How to reach me: **imashaudayanganie2020@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imasha silva" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/imasha udayanganie" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+<p align="center">
+🧪 Software Quality Assurance | 🤖 Automation Testing | 🔍 Selenium | ⚙️ TestNG
 </p>
 
 ---
 
-<h3 align="left">Languages & Tools (QA Relevant):</h3>
+<img align="right" alt="QA Testing" width="380"
+src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Undergraduate at University of Ruhuna  
+- 🧪 Focused on **Software Quality Assurance & Automation Testing**  
+- 🤖 Learning **Selenium WebDriver & TestNG Framework**  
+- 🐞 Interested in **Manual Testing, Bug Reporting & Test Case Design**  
+- 🔄 Familiar with **Agile methodologies & Jira workflow**  
+- 📫 Contact: **imashaudayanganie2020@gmail.com**
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+<a href="https://linkedin.com/in/imasha silva" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<a href="mailto:imashaudayanganie2020@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://testng.org/" target="_blank">
-<img src="https://testng.org/img/testng-logo.png" width="40" height="40"/>
+<a href="https://fb.com/imasha udayanganie" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
+</p>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+### 🧰 QA Tech Stack
 
-<a href="https://www.jira.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
-</a>
+<p align="left">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
